@@ -10,7 +10,7 @@ const WizardingHeader = () => {
       <nav className="flex items-center justify-between">
         <div className="flex items-center gap-3 cursor-pointer">
           <img src={logo} alt="DI Club Logo" className="w-12 h-12 rounded-full" />
-          <h1 className="text-2xl font-extrabold tracking-widest text-white">D.I</h1>
+          
         </div>
 
         <div className="hidden md:flex gap-8 text-sm text-gray-300">
